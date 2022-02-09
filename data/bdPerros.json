@@ -1,0 +1,150 @@
+{
+    "perros": [
+        
+        {
+            "nombre": "Luna",
+            "raza": "Pator Aleman",
+            "edad": "5 meses",
+            "ubicacion": "Calle Toledo, 171, 28005, Madrid, Madrid",
+            "personalidad": [
+                "Cariñoso",
+                "Juguetón",
+                "Corredor"
+            ],
+            "historia": "Luna es un perra muy grande a la que le encanta que la alzen le encata jugar en el agua le gusta morder las medias, pero es la mejor compañera ya que el sabe cada vez que necesitas un abrazo, en este momento no puedo brindarle esa compañia que Luna necesita, debo viajar a otro pais por temas laborales y no lo puedo llevar conmigo",
+            "usuario": "Andrew Lopez",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png",
+            "imagen": "https://i.ibb.co/x2ygCbw/images-2.jpg",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "id": 15,
+            "categoria": "perro"
+        },
+        {
+            "nombre": "Thor",
+            "raza": "Golden retriever",
+            "edad": "3 años",
+            "ubicacion": "55 Fruit St, Boston, MA 02114, Estados Unidos",
+            "personalidad": [
+                "Protector",
+                "Juguetón",
+                "Aventurero"
+            ],
+            "historia": "Thor es un perro protector y amistoso siempre esta buscando tu poteccion y que esten bien , es  bastante jugueton con los niños, le asusta los gatos y ama a los bebes. Su comida preferida es la zanahoria. Estoy en la busqueda de un nuevo hogar porque debo viajar al exterior por temas de estudio y no podre llevarlo conmigo, solo busco un hogar amoroso para mi Thor",
+            "usuario": "Sofia Álvarez",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png",
+            "imagen": "https://i.ibb.co/5sdRccz/51-Ge4-LNJt-UL.jpg",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "id": 16,
+            "categoria": "perro"
+        },
+        {
+            "nombre": "Emi",
+            "raza": "Husky siberiano",
+            "edad": "5 meses",
+            "ubicacion": "La Gloria, Bethania, cl 19cN, ca 37",
+            "personalidad": [
+                "Mordelon",
+                "Juguetón",
+                "Energico"
+            ],
+            "historia": "Emi es una mascota llena de energia siempre esta corriendo por todos los lados siempre espera ansiosa para salir al parque a jugar con sus amigos, ama morder los zapatos asi que debes tener cuidado con los tuyos, su comida favorita es el queso y odia la lechuga, le gusta dormir despues de su baño; tengo una bebe lo que nos lleva a no poder contar con la compañia de Emi, espero poder encontrar una familia que la ame como yo a ella. ",
+            "usuario": "Kelly Fonce",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png",
+            "imagen": "https://i.ibb.co/wSXCbCs/image.jpg",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "id": 17,
+            "categoria": "perro"
+        },
+        {
+            "nombre": "Danger",
+            "raza": "Cocker",
+            "edad": "2 años",
+            "ubicacion": "566 West 1350 South Bountiful UT 84010 USA",
+            "personalidad": [
+                "Curioso",
+                "Juguetón",
+                "Aventurero"
+            ],
+            "historia": "Danger es un perro bastante jugueton siempre esta para hacerte sacar una sonrisa con sus ocurrencias, siempre quiere que lo consientan y lo mimen le gusta comer insectos y jugar en el agua. Busco un nuevo hogar pra danger ya que debo mudarme y alli no acpetan mascotas, espero encontrar un lugar lleno de amor para Danger.",
+            "usuario": "Stiven Agudelo",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png",
+            "imagen": "https://i.ibb.co/j60KCVJ/Cocker-spaniel-called-Tony.jpg",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "id": 18,
+            "categoria": "perro"
+        },
+        {
+            "nombre": "Chester",
+            "raza": "Golden retriever",
+            "edad": "12 meses",
+            "ubicacion": "Calle 54-12b 108 - Medellín Antioquia  Colombia",
+            "personalidad": [
+                "Aventurero",
+                "Paciente",
+                "Tranquilo"
+            ],
+            "historia": "Chester es un perro muy valiente y leal, por lo general suele ser muy tranquilo, casi ni se siente en la casa, además es muy cariñoso y obediente . La razón por la cual nos tenemos que separar de él es porque nos vamos a ir a vivir al exterior y él desafortunadamente no nos puede acompañar, entonces estamos en busca de una persona que lo sepa cuidar con todo el corazón.",
+            "usuario": "Enrique Gómez",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png",
+            "imagen": "https://i.ibb.co/nsxG80m/perro2.jpg",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "id": 11,
+            "categoria": "perro"
+        },
+        {
+            "nombre": "Rocky",
+            "raza": "Rottweiler",
+            "edad": "3 meses",
+            "ubicacion": "4140 Parker Rd. Allentown, New Mexico 31134",
+            "personalidad": [
+                "Cariñoso",
+                "Juguetón",
+                "Inquieto"
+            ],
+            "historia": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+            "usuario": "Maria Dolores",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png",
+            "imagen": "https://i.ibb.co/WDfQyqB/perro1.jpg",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "id": 12,
+            "categoria": "perro"
+        },
+        {
+            "nombre": "Coco",
+            "raza": "Chihuahua",
+            "edad": "5 meses",
+            "ubicacion": "Calle 32-120b 180 - Medellin Antioquia Colombia",
+            "personalidad": [
+                "Cariñoso",
+                "Juguetón",
+                "Aventurero"
+            ],
+            "historia": "Coco es un perrito que llegó a nuestras vidas gracias a que lo encontramos en una casa abandonada, es un perro que es muy protector con sus dueños y que siempre está de buen humor. La razón por la que no lo puedo tener más es porque mi novio es alérgico a los perro asi que estamos buscando una familia que le de mucho amor.",
+            "usuario": "Sofia Álvarez",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png",
+            "imagen": "https://i.ibb.co/tHgRQZh/perro3.jpg",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "id": 13,
+            "categoria": "perro"
+        },
+        {
+            "nombre": "Pelusa",
+            "raza": "Bichón frisé",
+            "edad": "8 meses",
+            "ubicacion": "Calle 23-42a 113 - Medellín Antioquia Colombia",
+            "personalidad": [
+                "Tranquilo",
+                "Cariñoso",
+                "Curioso"
+            ],
+            "historia": "Pelusa es una perrita que fue previamente entrenado en una academia canina así que suele ser muy obediente y tranquila, ella llego a mi vida ya que fue un regalo de un amigo pero lastimosamente dónde me voy a mudar no me permiten tener mascotas así que estoy buscando a una familia que la cuide y le de mucho amor.",
+            "usuario": "Martin Lemus.",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png",
+            "imagen": "https://i.ibb.co/tpxYdr8/perro4.jpg",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "id": 14,
+            "categoria": "perro"
+        }
+                
+    ]
+}

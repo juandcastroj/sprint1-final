@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/inicio.css">
+    <title>Adopcion Mascota</title>
+
+    <style>
+        body {
+            background-color: #FEC7D7;
+        }
+
+        #icono1 {
+            display: none;
+            position: absolute;
+            left: 48%;
+            top: 45%;
+        }
+
+        #icono2 {
+            display: none;
+            position: absolute;
+            left: 45%;
+            top: 40%;
+        }
+    </style>
+
+
+
+</head>
+
+<body>
+
+    <img id="icono1" src="./images/leonidasesteban.com.png" alt="logo-inicio-1">
+    <a class="a-inicio-sig" href="./preindex2.html">
+        <img id="icono2" src="./images/leonidasesteban.com.png"  width="200px">
+
+        
+</body>
+
+
+<script>
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const logoPeq = document.querySelector('#icono1');
+        logoPeq.style.display = 'flex';
+
+        setTimeout(() => {
+            logoPeq.style.display = 'none';
+
+
+            setTimeout(() => {
+                const logoGr = document.querySelector('#icono2');
+                logoGr.style.display = 'flex';
+            }, 0);
+
+        }, 2700);
+
+    });
+</script>
+
+</html>

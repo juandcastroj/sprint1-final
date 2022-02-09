@@ -1,0 +1,48 @@
+.messageHeader{
+    margin-top: 0;
+    height: 144px;
+    background-color:white;
+}
+
+.btnBack{
+    background-color:transparent;
+    border: none;
+    margin-left: 10%;
+}
+
+.messageFoto{
+    position: relative;
+    margin-left: 20%;
+    margin-top: 1rem;
+}
+
+.messageName{
+    margin-top: 0.5rem;
+    color:black;
+    text-align: center;
+}
+
+#containerChat {
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight:50;
+}
+
+.owner {
+    background-color: rgb(33, 39, 75);
+    border-radius: 20px;
+    color: white;
+    margin-right: 40%;
+    padding: 15px;
+    margin-top: 0.5rem;
+}
+
+.person {
+    background-color:white;
+    border-radius: 20px;
+    margin-left: 40%;
+    padding: 15px;
+    margin-top: 0.5rem;
+}

@@ -1,0 +1,17 @@
+{
+    "chat": [
+    {
+        "sP": "Hola, deseo adoptar una mascota",
+        "sO": "¡Hola!, en que mascota estas interesado?",
+        "p1": "Gracias, quiero adoptar a Pelusa",
+        "r1": "Me alegra mucho es un perro encantador, podemos acordar una cita para que lo conozcas",
+        "p2": "Claro que si, yo podría el lunes",
+        "r2": "Perfecto, te espero el día lunes en la direccion 566 West 1350 South Bountiful UT 84010",
+        "dP": "Genial! me queda cerca, nos vemos alla",
+        "dO": "Te estaremos esperando...",
+        "usuario": "Martin Lemus",
+        "imgusuario": "../images/Ellipse 9.png"
+   
+    } 
+]}
+
